@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeRious17
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React-Native
+- 👀 I’m interested in Full Stack Web development
+- 🌱 Bachelor Of Engineering in Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail: rohitkp717@gmail.com 
 - linked in: www.linkedin.com/in/rohitpandey717
